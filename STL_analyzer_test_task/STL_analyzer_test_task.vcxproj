@@ -140,6 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Triangle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point3d.hpp" />
+    <ClInclude Include="Triangle.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
