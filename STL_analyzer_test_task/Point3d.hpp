@@ -1,5 +1,6 @@
 #pragma once
 
+#include <cmath>
 #include<stdexcept>
 
 //The 3d point is an array with 3 dimension components(x, y, z).

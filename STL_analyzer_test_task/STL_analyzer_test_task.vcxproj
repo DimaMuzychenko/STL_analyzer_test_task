@@ -139,12 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FacetAnalyzer.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="Solid.cpp" />
+    <ClCompile Include="STLreader.cpp" />
+    <ClCompile Include="Facet.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FacetAnalyzer.hpp" />
+    <ClInclude Include="Solid.hpp" />
     <ClInclude Include="Point3d.hpp" />
-    <ClInclude Include="Triangle.hpp" />
+    <ClInclude Include="STLreader.hpp" />
+    <ClInclude Include="Facet.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

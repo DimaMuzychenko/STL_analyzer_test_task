@@ -1,0 +1,9 @@
+﻿  Facet.cpp
+  FacetAnalyzer.cpp
+C:\STL_analyzer_test_task\STL_analyzer_test_task\FacetAnalyzer.cpp(32,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  STLreader.cpp
+  Solid.cpp
+  main.cpp
+  Generating Code...
+C:\STL_analyzer_test_task\STL_analyzer_test_task\Solid.cpp(93): warning C4172: returning address of local variable or temporary
+  STL_analyzer_test_task.vcxproj -> C:\STL_analyzer_test_task\x64\Debug\STL_analyzer_test_task.exe
